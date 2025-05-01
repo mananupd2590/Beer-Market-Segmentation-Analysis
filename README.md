@@ -38,7 +38,7 @@ This project analyzes customer data for Kirin Beer to identify distinct market s
 - Recommendations included regional bundling and event-based marketing
 
 ## Project Files
-- `Kirin_Insights_Presentation.pdf`: Slide deck with insights & strategy
+- `Hold_my_beer.pdf`: Slide deck with insights & strategy (That's a cool name, ain't it?)
 
 
 ## Next Steps
