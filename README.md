@@ -38,9 +38,8 @@ This project analyzes customer data for Kirin Beer to identify distinct market s
 - Recommendations included regional bundling and event-based marketing
 
 ## Project Files
-- `Kirin_Segmentation.ipynb`: Jupyter notebook with full analysis
 - `Kirin_Insights_Presentation.pdf`: Slide deck with insights & strategy
-- `kirin_data.csv`: (If allowed to share) Anonymized customer dataset
+
 
 ## Next Steps
 - Incorporate time-series patterns for seasonal targeting
@@ -48,4 +47,4 @@ This project analyzes customer data for Kirin Beer to identify distinct market s
 
 ## Author
 **Manan Upadhyay**  
-📫 Reach me on [LinkedIn](https://linkedin.com/in/yourprofile)  
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mananupadhyay2000/)  
