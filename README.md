@@ -48,9 +48,6 @@ Formed 3 personas:
 ### 🔹 Segment Sizes
 ![Segment Sizes](./kirin_slides/slide_7.png)
 
-### 🔹 Persona Highlights
-![Personas](./kirin_slides/slide_9.png)
-
 ### 🔹 Strategic Alignment
 ![Matching to Strategy](./kirin_slides/slide_13.png)
 
