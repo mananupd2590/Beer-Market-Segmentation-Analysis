@@ -1,50 +1,79 @@
-# Kirin Beer Market Segmentation Analysis 🍺
+# 🍺 Kirin Beer Market Segmentation Analysis
 
-## Overview
-This project analyzes customer data for Kirin Beer to identify distinct market segments using data clustering and consumer profiling techniques. The goal was to uncover actionable insights to support targeted marketing strategies.
+## 📌 Overview
+This project analyzes customer data for **Kirin Beer** to identify distinct market segments using clustering and consumer profiling techniques.
 
-## Objectives
+---
+
+## 🎯 Objectives
 - Understand key consumer personas for Kirin Beer
-- Use unsupervised machine learning to segment the market
-- Translate data-driven segments into marketing strategies
+- Apply unsupervised learning to segment the market
+- Translate data-driven segments into marketing strategy
 
-## Tools & Technologies
-- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+---
+
+## 🛠️ Tools & Technologies
+- Python (Pandas, NumPy, Seaborn, Scikit-learn)
+- K-Means Clustering (Elbow Method, Silhouette Score)
 - Jupyter Notebook
-- K-Means Clustering
-- Elbow Method / Silhouette Score
-- Tableau (or Matplotlib) for visualization
+- Tableau / Matplotlib
+- GitHub & Markdown
 
-## Methodology
-1. **Data Cleaning & Exploration**  
-   Cleaned and explored customer demographic and behavior data.
+---
 
-2. **Feature Engineering**  
-   Derived features like average spend, frequency, and product preferences.
+## 📊 Methodology
 
-3. **Segmentation Modeling**  
-   Applied K-Means clustering and evaluated using silhouette score.
+### 🧹 Data Cleaning & EDA
+Cleaned customer demographics, purchase behavior & frequency.
 
-4. **Persona Development**  
-   Created 3-4 key personas like "Weekend Loyalist", "Premium Explorer", etc.
+### 🏗️ Feature Engineering
+Derived insights from:
+- Avg spend per session
+- Product preference ratio
+- Frequency scores
 
-5. **Business Insights**  
-   - Identified under-tapped segments
-   - Suggested targeted promotions and packaging strategies
+### 🎯 Clustering
+Used K-Means with silhouette score optimization.
 
-## Key Takeaways
-- Found that younger urban customers preferred premium lagers
-- Older rural segments responded better to price-driven marketing
-- Recommendations included regional bundling and event-based marketing
+### 👥 Persona Development
+Created personas such as:
+- `Weekend Loyalist`
+- `Premium Explorer`
+- `Budget Seeker`
 
-## Project Files
-- `Hold_my_beer.pdf`: Slide deck with insights & strategy (That's a cool name, ain't it?)
+---
 
+## 🖼️ Visual Insights
 
-## Next Steps
-- Incorporate time-series patterns for seasonal targeting
-- Extend to product-line segmentation
+### Customer Clusters  
+<img src="assets/clusters_chart.png" width="600" alt="Cluster visualization" />
 
-## Author
+### Persona Breakdown  
+<img src="assets/persona_slide.png" width="600" alt="Customer Personas" />
+
+### Strategy Summary  
+<img src="assets/insights_summary.png" width="600" alt="Insights Summary Slide" />
+
+---
+
+## 💡 Key Business Takeaways
+- 👦 Young urban consumers prefer premium lagers
+- 👴 Older rural customers are price-sensitive
+- 🎯 Targeted strategies: regional bundling, event-based marketing
+
+---
+
+## 🗺️ Next Steps
+- Incorporate time-series for seasonal segmentation
+- Expand to product-line specific marketing plans
+
+---
+
+## 🧠 Author  
 **Manan Upadhyay**  
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mananupadhyay2000/)  
+📫 [Connect on LinkedIn](https://www.linkedin.com/in/mananupadhyay2000/)
+
+---
+
+## 📂 Project Files
+- `Hold_my_beer.pdf`: Slide deck with findings 🍻
