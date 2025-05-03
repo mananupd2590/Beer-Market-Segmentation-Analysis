@@ -42,9 +42,6 @@ Formed 3 personas:
 
 ## 🖼️ Visual Insights
 
-### 🔹 Project Introduction
-![Intro Slide](./kirin_slides/slide_1.png)
-
 ### 🔹 Methodology Snapshot
 ![Methodology](./kirin_slides/slide_4.png)
 
